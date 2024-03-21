@@ -1,10 +1,10 @@
-<Times xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="times.xsd"><DateTime uniquename="GVG_SEASON_26_END" defaultdatetime="2025-05-06T11:00:00Z" />
+<Times xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="times.xsd"><DateTime uniquename="GVG_SEASON_26_END" defaultdatetime="2025-05-05T11:00:00Z" />
   <DateTime uniquename="GVG_SEASON_26_START" defaultdatetime="2025-02-08T11:00:00Z" />
-  <DateTime uniquename="GVG_SEASON_25_END" defaultdatetime="2025-01-28T11:00:00Z" />
+  <DateTime uniquename="GVG_SEASON_25_END" defaultdatetime="2025-01-27T11:00:00Z" />
   <DateTime uniquename="GVG_SEASON_25_START" defaultdatetime="2024-11-02T11:00:00Z" />
-  <DateTime uniquename="GVG_SEASON_24_END" defaultdatetime="2024-10-22T11:00:00Z" />
+  <DateTime uniquename="GVG_SEASON_24_END" defaultdatetime="2024-10-21T11:00:00Z" />
   <DateTime uniquename="GVG_SEASON_24_START" defaultdatetime="2024-07-27T11:00:00Z" />
-  <DateTime uniquename="GVG_SEASON_23_END" defaultdatetime="2024-07-16T00:00:00Z" />
+  <DateTime uniquename="GVG_SEASON_23_END" defaultdatetime="2024-07-15T00:00:00Z" />
   <DateTime uniquename="GVG_SEASON_23_START" defaultdatetime="2024-04-20T00:00:00Z" />
   <DateTime uniquename="GVG_SEASON_22_END" defaultdatetime="2024-04-08T00:00:00Z" />
   <DateTime uniquename="GVG_SEASON_22_START" defaultdatetime="2024-01-13T00:00:00Z" />
@@ -16,11 +16,15 @@
   <DateTime uniquename="GVG_SEASON_19_START" defaultdatetime="2023-03-25T00:00:00Z" />
   <DateTime uniquename="GVG_SEASON_18_END" defaultdatetime="2023-03-13T00:00:00Z" />
   <DateTime uniquename="GVG_SEASON_18_START" defaultdatetime="2023-02-20T00:00:00Z" />
-  
-  <DateTime uniquename="CRYSTAL_18_ASIA_END" defaultdatetime="2023-02-20T00:00:00Z" />
-  <DateTime uniquename="CRYSTAL_18_ASIA_START" defaultdatetime="2023-02-01T00:00:00Z" />
   <DateTime uniquename="GVG_SEASON_17_END" defaultdatetime="2022-12-05T11:00:00Z" />
   <DateTime uniquename="GVG_SEASON_17_START" defaultdatetime="2022-09-17T11:00:00Z" />
+  
+  
+  <DateTime uniquename="CRYSTAL_22_EU_END" defaultdatetime="2024-04-23T11:00:00Z" />
+  <DateTime uniquename="CRYSTAL_22_EU_START" defaultdatetime="2024-04-03T11:00:00Z" />
+  <DateTime uniquename="CRYSTAL_18_ASIA_END" defaultdatetime="2023-02-20T00:00:00Z" />
+  <DateTime uniquename="CRYSTAL_18_ASIA_START" defaultdatetime="2023-02-01T00:00:00Z" />
+  
   
   
   
@@ -36,6 +40,9 @@
   <DateTime uniquename="ASIA_BETA_START" defaultdatetime="2023-01-02T02:00:00Z" />
   <DateTime uniquename="ASIA_BETA_END" defaultdatetime="2023-03-13T10:00:00Z" />
   
+  <DateTime uniquename="EU_BETA_START" defaultdatetime="2024-03-11T11:00:00Z" />
+  <DateTime uniquename="EU_BETA_END" defaultdatetime="2024-04-23T10:00:00Z" />
+  
   
   <DateTime uniquename="REFERRAL_A_TRADEABLE" defaultdatetime="2023-05-15T23:00:00Z" />
   <DateTime uniquename="REFERRAL_B_TRADEABLE" defaultdatetime="2023-06-15T23:00:00Z" />
@@ -48,6 +55,8 @@
   <DateTime uniquename="REFERRAL_I_TRADEABLE" defaultdatetime="2024-01-15T23:00:00Z" />
   <DateTime uniquename="REFERRAL_J_TRADEABLE" defaultdatetime="2024-02-15T23:00:00Z" />
   <DateTime uniquename="REFERRAL_K_TRADEABLE" defaultdatetime="2024-03-15T23:00:00Z" />
+  <DateTime uniquename="REFERRAL_L_TRADEABLE" defaultdatetime="2024-04-15T23:00:00Z" />
+  <DateTime uniquename="REFERRAL_M_TRADEABLE" defaultdatetime="2024-05-15T23:00:00Z" />
   
   <Time uniquename="DOWNTIME" time="23:00:00" />
   <Time uniquename="0UTC" time="00:00:00" />

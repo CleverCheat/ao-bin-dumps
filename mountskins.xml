@@ -1,4 +1,6 @@
 <mountskins xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="mountskins.xsd"><mountcategory uniquename="HORSES" icon="ICON_HORSE"><mountskin reference="SKIN_HORSE_FOUNDER_LEGENDARY" mountview="MountViewMedium" unlocklocation="AllServers" state="Locked" />
+	<mountskin reference="SKIN_HORSE_PEGASUS_LIGHT" mountview="MountViewBig" unlocklocation="AllServers" state="Hidden" />
+	<mountskin reference="SKIN_HORSE_PEGASUS_DARK" mountview="MountViewBig" unlocklocation="AllServers" state="Hidden" />
     <mountskin reference="SKIN_HORSE_FOUNDER_ASIA_CRYSTAL" mountview="MountViewMedium" unlocklocation="AllServers" state="Hidden" />
     <mountskin reference="SKIN_HORSE_FOUNDER_ASIA_GOLD" mountview="MountViewMedium" unlocklocation="AllServers" state="Hidden" />
     <mountskin reference="SKIN_HORSE_FOUNDER_ASIA_SILVER" mountview="MountViewMedium" unlocklocation="AllServers" state="Hidden" />
@@ -23,10 +25,12 @@
     <mountskin reference="SKIN_HORSE_ANNIVERSARY_2023" mountview="MountViewMedium" unlocklocation="OneServer" state="Locked" />
     <mountskin reference="SKIN_HORSE_VAMPIRE_TELLAFRIEND" mountview="MountViewMedium" unlocklocation="OneServer" state="Locked" />
     <mountskin reference="SKIN_HORSE_PRIEST_HOLY" mountview="MountViewMedium" unlocklocation="AllServers" state="Locked" />
-	<mountskin reference="SKIN_HORSE_TRACKER" mountview="MountViewMedium" unlocklocation="AllServers" state="Hidden" /> 
+	<mountskin reference="SKIN_HORSE_TRACKER" mountview="MountViewMedium" unlocklocation="AllServers" state="Hidden" />
   </mountcategory>
 
-  <mountcategory uniquename="ARMORED_HORSES" icon="ICON_ARMORED_HORSE"><mountskin reference="SKIN_ARMORED_HORSE_ARENA" mountview="MountViewMedium" unlocklocation="OneServer" state="Locked" />
+  <mountcategory uniquename="ARMORED_HORSES" icon="ICON_ARMORED_HORSE"><mountskin reference="SKIN_ARMORED_HORSE_PEGASUS_LIGHT" mountview="MountViewBig" unlocklocation="AllServers" state="Hidden" />
+	<mountskin reference="SKIN_ARMORED_HORSE_PEGASUS_DARK" mountview="MountViewBig" unlocklocation="AllServers" state="Hidden" />
+	<mountskin reference="SKIN_ARMORED_HORSE_ARENA" mountview="MountViewMedium" unlocklocation="OneServer" state="Locked" />
     <mountskin reference="SKIN_ARMORED_HORSE_MORGANA" mountview="MountViewMedium" unlocklocation="OneServer" state="Locked" />
     <mountskin reference="SKIN_ARMORED_HORSE_UNDEAD" mountview="MountViewMedium" unlocklocation="OneServer" state="Locked" />    
 	<mountskin reference="SKIN_ARMORED_HORSE_T5_MOUNT_GUILD" mountview="MountViewMedium" unlocklocation="OneServer" goldprice="700" />
@@ -43,7 +47,7 @@
     <mountskin reference="SKIN_ARMORED_HORSE_PALADIN" mountview="MountViewTall" unlocklocation="AllServers" state="Locked" />
     <mountskin reference="SKIN_ARMORED_HORSE_PALADIN_GUILD_COLORED" mountview="MountViewTall" unlocklocation="AllServers" state="Locked" />
     <mountskin reference="SKIN_ARMORED_HORSE_MARAUDER" mountview="MountViewTall" unlocklocation="AllServers" state="Locked" />
-    <mountskin reference="SKIN_ARMORED_HORSE_HERETIC_PONY_TELLAFRIEND" mountview="MountViewSmall" unlocklocation="OneServer" state="Hidden" />
+    <mountskin reference="SKIN_ARMORED_HORSE_HERETIC_PONY_TELLAFRIEND" mountview="MountViewSmall" unlocklocation="OneServer" state="Locked" />
     <mountskin reference="SKIN_ARMORED_HORSE_TITAN" mountview="MountViewTall" unlocklocation="AllServers" state="Hidden" />
 	<mountskin reference="SKIN_ARMORED_HORSE_FROSTKNIGHT" mountview="MountViewTall" unlocklocation="AllServers" state="Hidden" />  
 			
@@ -61,7 +65,7 @@
     <mountskin reference="SKIN_OX_MIST" mountview="MountViewTall" unlocklocation="AllServers" state="Locked" />
     <mountskin reference="SKIN_OX_FARMER_TELLAFRIEND" mountview="MountViewMedium" unlocklocation="OneServer" state="Locked" />
     <mountskin reference="SKIN_OX_XMAS_YAK_TELLAFRIEND" mountview="MountViewMedium" unlocklocation="OneServer" state="Locked" />
-    <mountskin reference="SKIN_OX_BETSY_TELLAFRIEND" mountview="MountViewMedium" unlocklocation="OneServer" state="Hidden" />
+    <mountskin reference="SKIN_OX_BETSY_TELLAFRIEND" mountview="MountViewMedium" unlocklocation="OneServer" state="Locked" />
   </mountcategory>
 
   <mountcategory uniquename="DIREWOLVES" icon="ICON_DIREWOLF"><mountskin reference="SKIN_DIREWOLF_WHITE" mountview="MountViewMedium" unlocklocation="OneServer" state="Locked" />
@@ -102,7 +106,7 @@
     <mountskin reference="SKIN_GIANTSTAG_ALPACA_BROWN" mountview="MountViewMedium" unlocklocation="OneServer" state="Locked" />
     <mountskin reference="SKIN_STAG_SOULKEEPER" mountview="MountViewTall" unlocklocation="AllServers" state="Locked" />
     <mountskin reference="SKIN_STAG_DRUID" mountview="MountViewTall" unlocklocation="AllServers" state="Locked" />
-    <mountskin reference="SKIN_GIANTSTAG_MIST_DEER_TELLAFRIEND" mountview="MountViewSmall" unlocklocation="OneServer" state="Hidden" />
+    <mountskin reference="SKIN_GIANTSTAG_MIST_DEER_TELLAFRIEND" mountview="MountViewSmall" unlocklocation="OneServer" state="Locked" />
     
   </mountcategory>
 
@@ -124,7 +128,8 @@
     <mountskin reference="SKIN_COUGAR_FROSTMAGE" mountview="MountViewMedium" unlocklocation="AllServers" state="Locked" />
     <mountskin reference="SKIN_COUGAR_RANGER" mountview="MountViewMedium" unlocklocation="AllServers" state="Locked" />
     <mountskin reference="SKIN_COUGAR_MUMMY_TELLAFRIEND" mountview="MountViewMedium" unlocklocation="OneServer" state="Hidden" />
-	<mountskin reference="SKIN_COUGAR_ASSASSIN" mountview="MountViewMedium" unlocklocation="AllServers" state="Hidden" />
+	<mountskin reference="SKIN_COUGAR_ASSASSIN" mountview="MountViewMedium" unlocklocation="AllServers" state="Locked" />
+    <mountskin reference="SKIN_COUGAR_DUELIST" mountview="MountViewMedium" unlocklocation="AllServers" state="Hidden" />
   </mountcategory>
 
   <mountcategory uniquename="DIREBOARS" icon="ICON_DIREBOAR"><mountskin reference="SKIN_DIREBOAR_HOUSEPIG" mountview="MountViewSmall" unlocklocation="OneServer" state="Locked" />
@@ -135,7 +140,7 @@
 	<mountskin reference="SKIN_DIREBOAR_ALCHEMIST" mountview="MountViewMedium" unlocklocation="AllServers" state="Hidden" />
   </mountcategory>
   
-  <mountcategory uniquename="DIREBEARS" icon="ICON_DIREBEAR"><mountskin reference="SKIN_DIREBEAR_PANDA_TELLAFRIEND" mountview="MountViewSmall" unlocklocation="OneServer" state="Locked" />
+  <mountcategory uniquename="DIREBEARS" icon="ICON_DIREBEAR"><mountskin reference="SKIN_DIREBEAR_PANDA_TELLAFRIEND" mountview="MountViewSmall" unlocklocation="AllServers" state="Locked" />
   </mountcategory>
   
   <mountcategory uniquename="LIZARDS" icon="ICON_LIZARD"><mountskin reference="SKIN_LIZARD_SAND_SALAMANDER_TELLAFRIEND" mountview="MountViewFlat" unlocklocation="OneServer" state="Locked" />

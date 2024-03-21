@@ -1,0 +1,4 @@
+<patch xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="patch.xsd"><add sel="festivities/fixedevents" aschild="true">&lt;event uniquename="EUROPE_BETA" start="EU_BETA_START" end="EU_BETA_END" showinactivityboard="false"&gt;
+	  &lt;buff spell="ASIA_BETA_BUFF" /&gt;
+	&lt;/event&gt;</add>
+</patch>

@@ -13,4 +13,6 @@
     <filterbundle id="IT-IT" filename="profanity_it.dict" loadon="client" />
     <filterbundle id="ID" filename="profanity_id.dict" loadon="client" />
     <filterbundle id="ZH-TW" filename="profanity_zh_tw.dict" loadon="client" />
+    <filterbundle id="AR-SA" filename="profanity_ar.dict" loadon="client" />
+    <filterbundle id="TR-TR" filename="profanity_tr.dict" loadon="client" />
 </profanityfilters>
